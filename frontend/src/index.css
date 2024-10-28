@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Remove default margin and padding */
+body,
+#root {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
