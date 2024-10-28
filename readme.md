@@ -12,6 +12,8 @@ cd ../frontend
 npm install
 npm run dev
 
+```
+
 Then in a new terminal
 
 ```
@@ -19,3 +21,4 @@ Then in a new terminal
 cd backend/
 npm install
 npm run dev
+```
